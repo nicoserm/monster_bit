@@ -3,10 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
         "microphone": "*",
-        "RingbitCar": "github:tinkertanker/pxt-ringbitcar#v3.1.4",
-        "radio-broadcast": "*"
+        "RingbitCar": "github:tinkertanker/pxt-ringbitcar#v3.1.4"
     },
     "files": [
         "main.blocks",
